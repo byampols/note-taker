@@ -4,6 +4,7 @@
 An application white allows for writing and saving notes. Notes are saved onto a JSON database, from which they can be deleted as well.
 
 [Github Source Repository](https://github.com/byampols/note-taker).
+[Deployed Application](https://fathomless-springs-02090.herokuapp.com/)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
