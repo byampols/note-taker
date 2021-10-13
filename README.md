@@ -30,7 +30,7 @@ An application white allows for writing and saving notes. Notes are saved onto a
 
 ## Contributors
 * Ben Yampolsky, server code
-* [coding-boot-camp, base code](https://github.com/coding-boot-camp/miniature-eureka/blob/main/Develop/db/db.json)
+* [coding-boot-camp, base code](https://github.com/coding-boot-camp/miniature-eureka/)
 * [adamhalasz, uniqid](https://www.npmjs.com/package/uniqid)
 
 ## Questions
